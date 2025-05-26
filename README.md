@@ -41,4 +41,9 @@ This project is configured for deployment on Vercel with a custom configuration 
 This project is private and not licensed for public use.
 
 
+## Frontend Developed by Abdullah
+- 📧 [dev@abdullah-ah.me]
+- 🌐 [Portfolio](https://www.abdullah-ah.me/)
+
+
 
