@@ -1,4 +1,4 @@
-# Art Duniya 🎨
+# Art Duniya(Frontend) 🎨
 
 A modern web application built with React and Vite that appears to focus on art and machine learning capabilities, featuring TensorFlow.js integration for advanced image processing and detection.
 
