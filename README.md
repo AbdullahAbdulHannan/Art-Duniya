@@ -42,7 +42,7 @@ This project is private and not licensed for public use.
 
 
 ## Frontend Developed by Abdullah
-- 📧 [dev@abdullah-ah.me]
+- 📧 [abdullahabdulhannan.ab@gmail.com]
 - 🌐 [Portfolio](https://www.abdullah-ah.me/)
 
 
